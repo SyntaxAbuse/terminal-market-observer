@@ -41,13 +41,13 @@ time-bounded history pull for bootstrapping
 
 interval-based updates for live tracking
 
-State
+# State
 
 rolling candle store ([]OHLCV with bounded capacity)
 
 derived series for charting and calculations
 
-Analysis Pipeline
+# Analysis Pipeline
 
 pure functions over history windows
 
